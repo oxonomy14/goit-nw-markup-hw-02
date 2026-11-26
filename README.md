@@ -46,7 +46,7 @@ goit-nw-markup-hw-01/
 - **Жива сторінка:**
   [WEBSTUDIO — GitHub Pages](https://oxonomy14.github.io/goit-nw-markup-hw-02/)
 - **Репозиторій:**
-  [goit-nw-markup-hw-01](https://github.com/oxonomy14/goit-nw-markup-hw-02)
+  [goit-nw-markup-hw-02](https://github.com/oxonomy14/goit-nw-markup-hw-02)
 - **Макет:**
   [Web Studio — Figma](https://www.figma.com/design/folOvI69KUmwYN47Njpr0O/Web-Studio--Version-5.1-?node-id=0-1)
 
