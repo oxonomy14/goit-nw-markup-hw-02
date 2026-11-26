@@ -1,15 +1,18 @@
 .container {
-	display: flex;
+  display: flex;
 
-	margin: 0 auto;
-	max-width: 1440px;
+  margin: 0 auto;
+  max-width: 1440px;
 }
 
-
 body {
-	font-family: 'Roboto', sans-serif;
-	color: #434455;
-	background-color: #fff;
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #fff;
 }
 
 h1,
@@ -18,25 +21,32 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
 }
 
 ul,
 ol {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
-	font-family: 'Roboto', sans-serif;
-	font-style: normal;
-	text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 button {
-	font-family: 'Roboto', sans-serif;
-	font-style: normal;
-	border: none;
-	cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  border: none;
+  cursor: pointer;
 }

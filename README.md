@@ -14,6 +14,7 @@ WEBSTUDIO — це навчальний проєкт зі створення HTM
 ## Технології
 
 - **HTML5** — структура та семантична розмітка сторінки.
+- **CSS** - оформлення та позиціонування елементів HTML розмітки
 - **Prettier** — форматування вихідного коду.
 - **Git** — контроль версій.
 - **GitHub Pages** — публікація проєкту.
@@ -24,6 +25,7 @@ WEBSTUDIO — це навчальний проєкт зі створення HTM
 goit-nw-markup-hw-01/
 ├── images/
 │   ├── ...
+|-- css/
 ├── index.html
 ├── .gitignore
 ├── .prettierrc
@@ -42,9 +44,9 @@ goit-nw-markup-hw-01/
 ## Перегляд проєкту
 
 - **Жива сторінка:**
-  [WEBSTUDIO — GitHub Pages](https://oxonomy14.github.io/goit-nw-markup-hw-01/)
+  [WEBSTUDIO — GitHub Pages](https://oxonomy14.github.io/goit-nw-markup-hw-02/)
 - **Репозиторій:**
-  [goit-nw-markup-hw-01](https://github.com/oxonomy14/goit-nw-markup-hw-01)
+  [goit-nw-markup-hw-01](https://github.com/oxonomy14/goit-nw-markup-hw-02)
 - **Макет:**
   [Web Studio — Figma](https://www.figma.com/design/folOvI69KUmwYN47Njpr0O/Web-Studio--Version-5.1-?node-id=0-1)
 
