@@ -1,8 +1,7 @@
 .features {
-  padding: 120px 141px;
 }
 
-.features_title {
+.features-title {
   font-weight: 500;
   font-size: 20px;
 
@@ -11,5 +10,5 @@
   color: #2e2f42;
 }
 
-.features_text {
+.features-text {
 }
